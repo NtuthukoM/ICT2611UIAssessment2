@@ -146,28 +146,28 @@ Partial Class AssessmentMarkCalculatorForm
         Me.txtAs2.Location = New System.Drawing.Point(203, 153)
         Me.txtAs2.Name = "txtAs2"
         Me.txtAs2.Size = New System.Drawing.Size(100, 22)
-        Me.txtAs2.TabIndex = 11
+        Me.txtAs2.TabIndex = 2
         '
         'txtAs3
         '
         Me.txtAs3.Location = New System.Drawing.Point(203, 190)
         Me.txtAs3.Name = "txtAs3"
         Me.txtAs3.Size = New System.Drawing.Size(100, 22)
-        Me.txtAs3.TabIndex = 12
+        Me.txtAs3.TabIndex = 3
         '
         'txtAs1
         '
         Me.txtAs1.Location = New System.Drawing.Point(203, 118)
         Me.txtAs1.Name = "txtAs1"
         Me.txtAs1.Size = New System.Drawing.Size(100, 22)
-        Me.txtAs1.TabIndex = 13
+        Me.txtAs1.TabIndex = 1
         '
         'txtExam
         '
         Me.txtExam.Location = New System.Drawing.Point(203, 230)
         Me.txtExam.Name = "txtExam"
         Me.txtExam.Size = New System.Drawing.Size(100, 22)
-        Me.txtExam.TabIndex = 14
+        Me.txtExam.TabIndex = 4
         '
         'lblResult
         '
